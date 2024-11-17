@@ -19,6 +19,8 @@ Tech Stack
 
 Folder Structure
  - The project follows the src-based folder structure in Next.js:
+
+ ```
  src/
 ├── app/
 |   ├── api
@@ -63,6 +65,7 @@ Folder Structure
 │   ├── theme.ts              # Material-UI theme customization
 .env                          # Environment variables
 
+```
 
 
 Getting Started
